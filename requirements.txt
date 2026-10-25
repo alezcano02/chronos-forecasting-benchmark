@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+requests
+statsmodels
+torch
+chronos-forecasting>=2.0
+matplotlib
+seaborn
+jupyter
